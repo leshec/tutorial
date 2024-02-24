@@ -8,7 +8,9 @@ image:
 pubDate: 2024-02-24
 tags: ["astro", "blogging", "learning in public", "successes"]
 ---
-This is a nice idea. Do it >>> After a successful first week learning Astro, I decided to try some more. I wrote and imported a small component from memory!
+This is a nice idea. Do it....
+
+After a successful first week learning Astro, I decided to try some more. I wrote and imported a small component from memory!
 
 
 [Home](https://wwww.richylaru12345.netlify.app)
