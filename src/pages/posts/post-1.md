@@ -1,8 +1,8 @@
 ---
 title: 'My First Blog Post'
-pubDate: 2022-07-01
+pubDate: 2024-02-24
 description: 'This is the first post of my new Astro blog.'
-author: 'Astro Learner'
+author: 'Richylaue'
 image:
     url: 'https://docs.astro.build/assets/full-logo-light.png'
     alt: 'The full Astro logo.'
@@ -26,3 +26,4 @@ Welcome to my _new blog_ about learning Astro! Here, I will share my learning jo
 
 I will finish the Astro tutorial, and then keep adding more posts. Watch this space for more to come.
 
+[Home](https://wwww.richylaru12345.netlify.app)
